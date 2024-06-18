@@ -1,6 +1,6 @@
 ### Hi It's Dharshan 👋
 
-<!--
+
 **dharshanMP/dharshanMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Dharshan</h1>
@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshanmp&" alt="dharshanmp" /></p>
 
--->
+
