@@ -1,7 +1,7 @@
-### Hi It's Dharshan 👋
+<!--### Hi👋-->
 
 
-**dharshanMP/dharshanMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**dharshanMP/dharshanMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi 👋, I'm Dharshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
