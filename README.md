@@ -1,7 +1,7 @@
 <h1 align="center">Hey Buddy! I'm Dharshan🤓</h1>
 <h3 align="center">A passionate Software Developer 💻</h3>
 
-<
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshan-mp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshan.mp@outlook.com) <a href="https://www.leetcode.com/dharshanmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharshanmp" height="30" width="40" /></a>
 </p>
